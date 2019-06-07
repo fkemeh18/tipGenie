@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_textView_default">10dp</dimen>
+    <dimen name="etTextSize">30sp</dimen>
+    <dimen name="genTextSize">40sp</dimen>
+    <dimen name="gridPad">8dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tipGenie</string>
+    <string name="editTextString">Enter Bill Amount</string>
+    <string name="tvPercentString">15%</string>
+    <string name="tvTipString">Tip</string>
+    <string name="tvTotalString">Total</string>
+    <string name="tvTipAmntString">$0.00</string>
+</resources>
